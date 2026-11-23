@@ -13,6 +13,7 @@
 
 - **Dedicated Documentation:** [https://keshavsoft.github.io/ubuntu-service-docs/restart/](https://keshavsoft.github.io/ubuntu-service-docs/restart/)
 - **Full Suite Hub:** [https://keshavsoft.github.io/ubuntu-service-docs/](https://keshavsoft.github.io/ubuntu-service-docs/)
+- **All 8 Repositories in Family:** [https://keshavsoft.github.io/ubuntu-service-docs/repos/](https://keshavsoft.github.io/ubuntu-service-docs/repos/)
 - **npm Package:** [https://www.npmjs.com/package/ubuntu-service-restart](https://www.npmjs.com/package/ubuntu-service-restart)
 - **Sister Packages:**
   - `ubuntu-service`: [npm](https://www.npmjs.com/package/ubuntu-service) | [docs](https://keshavsoft.github.io/ubuntu-service-docs/service/)
