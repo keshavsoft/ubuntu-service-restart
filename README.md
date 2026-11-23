@@ -1,6 +1,22 @@
 # ubuntu-service-restart
 
+[![npm version](https://img.shields.io/badge/npm-v1.0.0-orange.svg)](https://www.npmjs.com/package/ubuntu-service-restart)
+[![Docs](https://img.shields.io/badge/docs-GitHub_Pages-sky.svg)](https://keshavsoft.github.io/ubuntu-service-docs/restart/)
+[![Suite](https://img.shields.io/badge/suite-ubuntu--service-orange.svg)](https://keshavsoft.github.io/ubuntu-service-docs/)
+[![GitHub](https://img.shields.io/badge/github-keshavsoft%2Fubuntu--service--restart-181717.svg)](https://github.com/keshavsoft/ubuntu-service-restart)
+
 > Safe, verified systemctl restarting, live status polling, and journalctl log inspection for Ubuntu systemd services.
+
+---
+
+## 🌐 Documentation & Links
+
+- **Dedicated Documentation:** [https://keshavsoft.github.io/ubuntu-service-docs/restart/](https://keshavsoft.github.io/ubuntu-service-docs/restart/)
+- **Full Suite Hub:** [https://keshavsoft.github.io/ubuntu-service-docs/](https://keshavsoft.github.io/ubuntu-service-docs/)
+- **npm Package:** [https://www.npmjs.com/package/ubuntu-service-restart](https://www.npmjs.com/package/ubuntu-service-restart)
+- **Sister Packages:**
+  - `ubuntu-service`: [npm](https://www.npmjs.com/package/ubuntu-service) | [docs](https://keshavsoft.github.io/ubuntu-service-docs/service/)
+  - `ubuntu-service-detect`: [npm](https://www.npmjs.com/package/ubuntu-service-detect) | [docs](https://keshavsoft.github.io/ubuntu-service-docs/detect/)
 
 ---
 
