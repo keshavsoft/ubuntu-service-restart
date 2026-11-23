@@ -1,0 +1,30 @@
+{
+  "name": "ubuntu-service-restart",
+  "version": "1.0.0",
+  "description": "Safe, verified systemctl restarting and health verification for Ubuntu systemd services.",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js",
+    "./v1": "./src/v1/index.js"
+  },
+  "files": [
+    "src",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "ubuntu",
+    "systemd",
+    "restart",
+    "systemctl",
+    "health"
+  ],
+  "author": "KeshavSoft",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
